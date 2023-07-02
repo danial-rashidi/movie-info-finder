@@ -1,1 +1,1 @@
-# movie-info-finder
+# Movie Info Finder
